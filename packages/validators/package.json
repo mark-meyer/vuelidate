@@ -1,5 +1,5 @@
 {
-  "name": "@vuelidate/validators",
+  "name": "@mmeyer-vuelidate/validators",
   "version": "2.0.0",
   "description": "Validators for Vuelidate",
   "main": "dist/index.js",
