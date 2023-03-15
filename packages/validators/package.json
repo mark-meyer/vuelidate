@@ -44,5 +44,6 @@
   "files": [
     "dist",
     "index.d.ts"
-  ]
+  ],
+  "gitHead": "30db007da39220bc9f0bba231602330fafdabfee"
 }

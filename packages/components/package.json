@@ -20,5 +20,6 @@
   },
   "dependencies": {
     "@vuelidate/core": "^2.0.0"
-  }
+  },
+  "gitHead": "30db007da39220bc9f0bba231602330fafdabfee"
 }
