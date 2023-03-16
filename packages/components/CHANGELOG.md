@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# 1.4.0 (2023-03-16)
+
+
+### Bug Fixes
+
+* add iife exports to all packages, closes [#1001](https://github.com/vuelidate/vuelidate/issues/1001) ([#1020](https://github.com/vuelidate/vuelidate/issues/1020)) ([2d1a203](https://github.com/vuelidate/vuelidate/commit/2d1a2034cddc0c473b7bfa1e44ac5601ee2dbce3))
+* **components:** fix bad reference to module package in package.json, closes [#1047](https://github.com/vuelidate/vuelidate/issues/1047) ([79d3ccd](https://github.com/vuelidate/vuelidate/commit/79d3ccd5cfc5dee136801fb139983e48a16011a6))
+
+
+### Features
+
+* add index to forEach and ValidateEach helpers ([#1065](https://github.com/vuelidate/vuelidate/issues/1065)) ([b9dd30c](https://github.com/vuelidate/vuelidate/commit/b9dd30c70debcdf66202707710bebb99fd86f103))
+* **validators:** add a new forEach helper, and @vuelidate/components package ([#880](https://github.com/vuelidate/vuelidate/issues/880)) ([102c6cd](https://github.com/vuelidate/vuelidate/commit/102c6cde3deb5ead7da157d00ac7a964ae596a96))
+
+
+
+
+
 ## [1.3.2](https://github.com/vuelidate/vuelidate/compare/@mmeyer-vuelidate/components@1.3.1...@mmeyer-vuelidate/components@1.3.2) (2023-03-15)
 
 **Note:** Version bump only for package @mmeyer-vuelidate/components
