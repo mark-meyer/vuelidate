@@ -1,6 +1,6 @@
 {
   "name": "@markmeyer/vuelidate-validators",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Validators for Vuelidate",
   "main": "dist/index.js",
   "types": "index.d.ts",

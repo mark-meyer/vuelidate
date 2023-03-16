@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.4.1](https://github.com/vuelidate/vuelidate/compare/@markmeyer/vuelidate-components@1.4.0...@markmeyer/vuelidate-components@1.4.1) (2023-03-16)
+
+**Note:** Version bump only for package @markmeyer/vuelidate-components
+
+
+
+
+
 # 1.4.0 (2023-03-16)
 
 
