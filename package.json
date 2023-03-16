@@ -1,5 +1,5 @@
 {
-  "name": "mmeyer-vuelidate",
+  "name": "@markmeyer/vuelidate",
   "version": "1.0.0",
   "private": true,
   "description": "Simple, lightweight model-based validation for Vue.js",

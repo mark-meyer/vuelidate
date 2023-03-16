@@ -1,5 +1,5 @@
 {
-  "name": "@mmeyer-vuelidate/validators",
+  "name": "@markmeyer/vuelidate-validators",
   "version": "3.0.2",
   "description": "Validators for Vuelidate",
   "main": "dist/index.js",
@@ -45,5 +45,5 @@
     "dist",
     "index.d.ts"
   ],
-  "gitHead": "7a6d731ad13024934a2341e1ffce0bca5c1e2bd3"
+  "gitHead": "ed1d72ebbbfcf045ae27f9d50d05235fe297b588"
 }
